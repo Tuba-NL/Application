@@ -13,4 +13,7 @@ public class MyClass {
     //tuba Branch: T2
     public String string5 = "Bu tuba branchinde olusturulmus bir stringdir.";
 
+    //V4
+    public String strin6 = "Biraz daha farkli bir string.";
+
 }
