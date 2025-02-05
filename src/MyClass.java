@@ -25,4 +25,8 @@ public class MyClass {
     //Biraz daha degisiklik yapalim T5
     public String string9 = "Superiz";
 
+    //v5
+    public String string10 = "Superiz";
+
+
 }
