@@ -10,6 +10,7 @@ public class MyClass {
     //tuba Branch: T1
     public String string4 = "Bu tuba branchinde olusturulmus bir stringdir.";
 
-
+    //tuba Branch: T2
+    public String string5 = "Bu tuba branchinde olusturulmus bir stringdir.";
 
 }
