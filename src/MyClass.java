@@ -7,5 +7,9 @@ public class MyClass {
     //V3
     public String string3 = "Bu da cok daha baska bir string.";
 
+    //tuba Branch: T1
+    public String string4 = "Bu tuba branchinde olusturulmus bir stringdir.";
+
+
 
 }
